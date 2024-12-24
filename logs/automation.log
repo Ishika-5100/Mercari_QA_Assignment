@@ -1,0 +1,790 @@
+2024-12-19 23:31:50 [main] INFO : Initializing WebDriver setup.
+2024-12-19 23:39:57 [main] INFO : Initializing WebDriver setup.
+2024-12-19 23:49:38 [main] INFO : Initializing WebDriver setup.
+2024-12-19 23:49:39 [main] INFO : WebDriver setup completed.
+2024-12-19 23:49:39 [main] INFO : Starting test: testSearchConditions
+2024-12-19 23:49:39 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-19 23:52:50 [main] INFO : Initializing WebDriver setup.
+2024-12-19 23:52:51 [main] INFO : WebDriver setup completed.
+2024-12-19 23:52:51 [main] INFO : Starting test: testSearchConditions
+2024-12-19 23:52:53 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-19 23:52:53 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-20 00:01:59 [main] INFO : Initializing WebDriver setup.
+2024-12-20 00:02:00 [main] INFO : WebDriver setup completed.
+2024-12-20 00:02:00 [main] INFO : Starting test: testSearchConditions
+2024-12-20 00:02:02 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-20 00:02:02 [main] INFO : Clicked on the search bar.
+2024-12-20 00:02:02 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-23 00:18:36 [main] INFO : Initializing WebDriver setup.
+2024-12-23 00:18:39 [main] INFO : WebDriver setup completed.
+2024-12-23 00:18:39 [main] INFO : Starting test: testSearchConditions
+2024-12-23 00:18:42 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-23 00:18:42 [main] INFO : Clicked on the search bar.
+2024-12-23 00:18:43 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-23 00:23:08 [main] INFO : Initializing WebDriver setup.
+2024-12-23 00:23:10 [main] INFO : WebDriver setup completed.
+2024-12-23 00:23:10 [main] INFO : Starting test: testSearchConditions
+2024-12-23 00:23:14 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-23 00:23:15 [main] INFO : Clicked on the search bar.
+2024-12-23 00:23:19 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-23 00:25:43 [main] INFO : Initializing WebDriver setup.
+2024-12-23 00:25:45 [main] INFO : WebDriver setup completed.
+2024-12-23 00:25:45 [main] INFO : Starting test: testSearchConditions
+2024-12-23 00:25:48 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-23 00:25:48 [main] INFO : Clicked on the search bar.
+2024-12-23 00:25:49 [main] INFO : Clicked on 'Select by category'.
+2024-12-23 00:25:49 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-23 00:30:04 [main] INFO : Initializing WebDriver setup.
+2024-12-23 00:30:05 [main] INFO : WebDriver setup completed.
+2024-12-23 00:30:05 [main] INFO : Starting test: testSearchConditions
+2024-12-23 00:30:09 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-23 00:30:10 [main] INFO : Clicked on the search bar.
+2024-12-23 00:30:10 [main] INFO : Clicked on 'Select by category'.
+2024-12-23 00:30:11 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-23 00:35:03 [main] INFO : Initializing WebDriver setup.
+2024-12-23 00:35:05 [main] INFO : WebDriver setup completed.
+2024-12-23 00:35:05 [main] INFO : Starting test: testSearchConditions
+2024-12-23 00:35:09 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-23 00:35:10 [main] INFO : Clicked on the search bar.
+2024-12-23 00:35:10 [main] INFO : Clicked on 'Select by category'.
+2024-12-23 00:35:11 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-23 01:01:26 [main] INFO : Initializing WebDriver setup.
+2024-12-23 01:01:28 [main] INFO : WebDriver setup completed.
+2024-12-23 01:01:28 [main] INFO : Starting test: testSearchConditions
+2024-12-23 01:01:31 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-23 01:01:31 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-23 01:01:51 [main] INFO : Initializing WebDriver setup.
+2024-12-23 01:01:52 [main] INFO : WebDriver setup completed.
+2024-12-23 01:01:52 [main] INFO : Starting test: testSearchConditions
+2024-12-23 01:01:55 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-23 01:01:56 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-23 01:06:11 [main] INFO : Initializing WebDriver setup.
+2024-12-23 01:06:12 [main] INFO : WebDriver setup completed.
+2024-12-23 01:06:12 [main] INFO : Starting test: testSearchConditions
+2024-12-23 01:06:15 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-23 01:06:20 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-23 01:06:37 [main] INFO : Initializing WebDriver setup.
+2024-12-23 01:06:39 [main] INFO : WebDriver setup completed.
+2024-12-23 01:06:39 [main] INFO : Starting test: testSearchConditions
+2024-12-23 01:06:40 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-23 01:06:46 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-23 01:07:13 [main] INFO : Initializing WebDriver setup.
+2024-12-23 01:07:14 [main] INFO : WebDriver setup completed.
+2024-12-23 01:07:14 [main] INFO : Starting test: testSearchConditions
+2024-12-23 01:07:15 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-23 01:07:21 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-23 20:31:23 [main] INFO : Initializing WebDriver setup.
+2024-12-23 20:31:25 [main] INFO : WebDriver setup completed.
+2024-12-23 20:31:25 [main] INFO : Starting test: testSearchConditions
+2024-12-23 20:31:27 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-23 20:31:35 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-23 20:31:41 [main] INFO : Initializing WebDriver setup.
+2024-12-23 20:31:42 [main] INFO : WebDriver setup completed.
+2024-12-23 20:31:42 [main] INFO : Starting test: testSearchConditions
+2024-12-23 20:31:45 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-23 20:31:51 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 01:39:22 [main] INFO : Initializing WebDriver setup.
+2024-12-24 01:39:24 [main] INFO : WebDriver setup completed.
+2024-12-24 01:39:24 [main] INFO : Starting test: testSearchConditions
+2024-12-24 01:39:26 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 01:39:28 [main] INFO : Clicked on the language button.
+2024-12-24 01:39:29 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 01:39:30 [main] INFO : Clicked on the submit.
+2024-12-24 01:39:36 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 01:40:56 [main] INFO : Initializing WebDriver setup.
+2024-12-24 01:40:57 [main] INFO : WebDriver setup completed.
+2024-12-24 01:40:57 [main] INFO : Starting test: testSearchConditions
+2024-12-24 01:41:00 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 01:41:01 [main] INFO : Clicked on the language button.
+2024-12-24 01:41:02 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 01:41:04 [main] INFO : Clicked on the submit.
+2024-12-24 01:41:05 [main] INFO : Clicked on the search bar.
+2024-12-24 01:41:10 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 01:42:55 [main] INFO : Initializing WebDriver setup.
+2024-12-24 01:42:57 [main] INFO : WebDriver setup completed.
+2024-12-24 01:42:57 [main] INFO : Starting test: testSearchConditions
+2024-12-24 01:43:01 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 01:43:02 [main] INFO : Clicked on the language button.
+2024-12-24 01:43:03 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 01:43:04 [main] INFO : Clicked on the submit.
+2024-12-24 01:43:05 [main] INFO : Clicked on the search bar.
+2024-12-24 01:43:06 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 01:43:11 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 01:44:08 [main] INFO : Initializing WebDriver setup.
+2024-12-24 01:44:09 [main] INFO : WebDriver setup completed.
+2024-12-24 01:44:09 [main] INFO : Starting test: testSearchConditions
+2024-12-24 01:44:11 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 01:44:13 [main] INFO : Clicked on the language button.
+2024-12-24 01:44:14 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 01:44:16 [main] INFO : Clicked on the submit.
+2024-12-24 01:44:16 [main] INFO : Clicked on the search bar.
+2024-12-24 01:44:17 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 01:44:23 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 01:47:52 [main] INFO : Initializing WebDriver setup.
+2024-12-24 01:47:53 [main] INFO : WebDriver setup completed.
+2024-12-24 01:47:53 [main] INFO : Starting test: testSearchConditions
+2024-12-24 01:47:56 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 01:47:58 [main] INFO : Clicked on the language button.
+2024-12-24 01:47:58 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 01:48:00 [main] INFO : Clicked on the submit.
+2024-12-24 01:48:00 [main] INFO : Clicked on the search bar.
+2024-12-24 01:48:01 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 01:48:06 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 01:51:40 [main] INFO : Initializing WebDriver setup.
+2024-12-24 01:51:41 [main] INFO : WebDriver setup completed.
+2024-12-24 01:51:41 [main] INFO : Starting test: testSearchConditions
+2024-12-24 01:51:46 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 01:51:46 [main] INFO : Clicked on the language button.
+2024-12-24 01:51:47 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 01:51:49 [main] INFO : Clicked on the submit.
+2024-12-24 01:51:50 [main] INFO : Clicked on the search bar.
+2024-12-24 01:51:50 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 01:51:51 [main] INFO : Selected Tier 1 category: 本・音楽・ゲーム
+2024-12-24 01:51:56 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 01:54:35 [main] INFO : Initializing WebDriver setup.
+2024-12-24 01:54:37 [main] INFO : WebDriver setup completed.
+2024-12-24 01:54:37 [main] INFO : Starting test: testSearchConditions
+2024-12-24 01:54:42 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 01:54:43 [main] INFO : Clicked on the language button.
+2024-12-24 01:54:44 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 01:54:45 [main] INFO : Clicked on the submit.
+2024-12-24 01:54:46 [main] INFO : Clicked on the search bar.
+2024-12-24 01:54:46 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 01:54:49 [main] INFO : Selected Tier 1 category: 本・音楽・ゲーム
+2024-12-24 01:54:49 [main] INFO : Selected Tier 2 category: 本
+2024-12-24 01:54:55 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 01:57:34 [main] INFO : Initializing WebDriver setup.
+2024-12-24 01:57:35 [main] INFO : WebDriver setup completed.
+2024-12-24 01:57:35 [main] INFO : Starting test: testSearchConditions
+2024-12-24 01:57:41 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 01:57:42 [main] INFO : Clicked on the language button.
+2024-12-24 01:57:42 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 01:57:44 [main] INFO : Clicked on the submit.
+2024-12-24 01:57:44 [main] INFO : Clicked on the search bar.
+2024-12-24 01:57:44 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 01:57:47 [main] INFO : Selected Tier 1 category
+2024-12-24 01:57:48 [main] INFO : Selected Tier 2 category
+2024-12-24 01:57:48 [main] INFO : Selected Tier 3 category
+2024-12-24 01:57:48 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 18:27:50 [main] INFO : Initializing WebDriver setup.
+2024-12-24 18:27:52 [main] INFO : WebDriver setup completed.
+2024-12-24 18:27:52 [main] INFO : Starting test: testSearchConditions
+2024-12-24 18:27:55 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 18:27:58 [main] INFO : Clicked on the language button.
+2024-12-24 18:27:59 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 18:28:00 [main] INFO : Clicked on the submit.
+2024-12-24 18:28:00 [main] INFO : Clicked on the search bar.
+2024-12-24 18:28:01 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 18:28:03 [main] INFO : Selected Tier 1 category
+2024-12-24 18:28:04 [main] INFO : Selected Tier 2 category
+2024-12-24 18:28:04 [main] INFO : Selected Tier 3 category
+2024-12-24 18:28:04 [main] INFO : Verifying search conditions on the sidebar.
+2024-12-24 18:28:05 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 18:30:13 [main] INFO : Initializing WebDriver setup.
+2024-12-24 18:30:14 [main] INFO : WebDriver setup completed.
+2024-12-24 18:30:14 [main] INFO : Starting test: testSearchConditions
+2024-12-24 18:30:18 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 18:30:20 [main] INFO : Clicked on the language button.
+2024-12-24 18:30:21 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 18:30:22 [main] INFO : Clicked on the submit.
+2024-12-24 18:30:22 [main] INFO : Clicked on the search bar.
+2024-12-24 18:30:23 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 18:30:25 [main] INFO : Selected Tier 1 category
+2024-12-24 18:30:25 [main] INFO : Selected Tier 2 category
+2024-12-24 18:30:26 [main] INFO : Selected Tier 3 category
+2024-12-24 18:30:26 [main] INFO : Verifying search conditions on the sidebar.
+2024-12-24 18:30:29 [main] INFO : Tier 1 category verified successfully: Books, Magazines, Manga
+2024-12-24 18:30:29 [main] INFO : Tier 2 category verified successfully: Book
+2024-12-24 18:30:30 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 18:34:31 [main] INFO : Initializing WebDriver setup.
+2024-12-24 18:34:32 [main] INFO : WebDriver setup completed.
+2024-12-24 18:34:32 [main] INFO : Starting test: testSearchConditions
+2024-12-24 18:34:36 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 18:34:36 [main] INFO : Clicked on the language button.
+2024-12-24 18:34:37 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 18:34:38 [main] INFO : Clicked on the submit.
+2024-12-24 18:34:38 [main] INFO : Clicked on the search bar.
+2024-12-24 18:34:39 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 18:34:41 [main] INFO : Selected Tier 1 category
+2024-12-24 18:34:42 [main] INFO : Selected Tier 2 category
+2024-12-24 18:34:42 [main] INFO : Selected Tier 3 category
+2024-12-24 18:34:42 [main] INFO : Verifying search conditions on the sidebar.
+2024-12-24 18:34:46 [main] INFO : Tier 1 category verified successfully: Books, Magazines, Manga
+2024-12-24 18:34:46 [main] INFO : Tier 2 category verified successfully: Book
+2024-12-24 18:34:46 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 18:49:28 [main] INFO : Initializing WebDriver setup.
+2024-12-24 18:49:29 [main] INFO : WebDriver setup completed.
+2024-12-24 18:49:29 [main] INFO : Starting test: testSearchConditions
+2024-12-24 18:49:33 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 18:49:35 [main] INFO : Clicked on the language button.
+2024-12-24 18:49:37 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 18:49:38 [main] INFO : Clicked on the submit.
+2024-12-24 18:49:38 [main] INFO : Clicked on the search bar.
+2024-12-24 18:49:39 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 18:49:41 [main] INFO : Selected Tier 1 category
+2024-12-24 18:49:42 [main] INFO : Selected Tier 2 category
+2024-12-24 18:49:42 [main] INFO : Selected Tier 3 category
+2024-12-24 18:49:42 [main] INFO : Verifying search conditions on the sidebar.
+2024-12-24 18:49:45 [main] INFO : Tier 1 category verified successfully: Books, Magazines, Manga
+2024-12-24 18:49:45 [main] INFO : Tier 2 category verified successfully: Book
+2024-12-24 18:49:46 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 18:50:51 [main] INFO : Initializing WebDriver setup.
+2024-12-24 18:50:52 [main] INFO : WebDriver setup completed.
+2024-12-24 18:50:52 [main] INFO : Starting test: testSearchConditions
+2024-12-24 18:50:56 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 18:50:58 [main] INFO : Clicked on the language button.
+2024-12-24 18:50:58 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 18:51:00 [main] INFO : Clicked on the submit.
+2024-12-24 18:51:00 [main] INFO : Clicked on the search bar.
+2024-12-24 18:51:01 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 18:51:02 [main] INFO : Selected Tier 1 category
+2024-12-24 18:51:03 [main] INFO : Selected Tier 2 category
+2024-12-24 18:51:04 [main] INFO : Selected Tier 3 category
+2024-12-24 18:51:04 [main] INFO : Verifying search conditions on the sidebar.
+2024-12-24 18:51:08 [main] INFO : Tier 1 category verified successfully: Books, Magazines, Manga
+2024-12-24 18:51:08 [main] INFO : Tier 2 category verified successfully: Book
+2024-12-24 18:51:08 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 18:51:22 [main] INFO : Initializing WebDriver setup.
+2024-12-24 18:51:23 [main] INFO : WebDriver setup completed.
+2024-12-24 18:51:23 [main] INFO : Starting test: testSearchConditions
+2024-12-24 18:51:26 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 18:51:28 [main] INFO : Clicked on the language button.
+2024-12-24 18:51:29 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 18:51:30 [main] INFO : Clicked on the submit.
+2024-12-24 18:51:30 [main] INFO : Clicked on the search bar.
+2024-12-24 18:51:31 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 18:51:33 [main] INFO : Selected Tier 1 category
+2024-12-24 18:51:33 [main] INFO : Selected Tier 2 category
+2024-12-24 18:51:34 [main] INFO : Selected Tier 3 category
+2024-12-24 18:51:34 [main] INFO : Verifying search conditions on the sidebar.
+2024-12-24 18:51:38 [main] INFO : Tier 1 category verified successfully: Books, Magazines, Manga
+2024-12-24 18:51:38 [main] INFO : Tier 2 category verified successfully: Book
+2024-12-24 18:51:38 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 18:52:00 [main] INFO : Initializing WebDriver setup.
+2024-12-24 18:52:01 [main] INFO : WebDriver setup completed.
+2024-12-24 18:52:01 [main] INFO : Starting test: testSearchConditions
+2024-12-24 18:52:04 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 18:52:06 [main] INFO : Clicked on the language button.
+2024-12-24 18:52:06 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 18:52:07 [main] INFO : Clicked on the submit.
+2024-12-24 18:52:08 [main] INFO : Clicked on the search bar.
+2024-12-24 18:52:09 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 18:52:10 [main] INFO : Selected Tier 1 category
+2024-12-24 18:52:11 [main] INFO : Selected Tier 2 category
+2024-12-24 18:52:12 [main] INFO : Selected Tier 3 category
+2024-12-24 18:52:12 [main] INFO : Verifying search conditions on the sidebar.
+2024-12-24 18:52:15 [main] INFO : Tier 1 category verified successfully: Books, Magazines, Manga
+2024-12-24 18:52:15 [main] INFO : Tier 2 category verified successfully: Book
+2024-12-24 18:52:15 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 18:57:57 [main] INFO : Initializing WebDriver setup.
+2024-12-24 18:57:58 [main] INFO : WebDriver setup completed.
+2024-12-24 18:57:58 [main] INFO : Starting test: testSearchConditions
+2024-12-24 18:58:02 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 18:58:03 [main] INFO : Clicked on the language button.
+2024-12-24 18:58:04 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 18:58:05 [main] INFO : Clicked on the submit.
+2024-12-24 18:58:06 [main] INFO : Clicked on the search bar.
+2024-12-24 18:58:06 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 18:58:08 [main] INFO : Selected Tier 1 category
+2024-12-24 18:58:09 [main] INFO : Selected Tier 2 category
+2024-12-24 18:58:10 [main] INFO : Selected Tier 3 category
+2024-12-24 18:58:10 [main] INFO : Verifying search conditions on the sidebar.
+2024-12-24 18:58:13 [main] INFO : Tier 1 category verified successfully: Books, Magazines, Manga
+2024-12-24 18:58:13 [main] INFO : Tier 2 category verified successfully: Book
+2024-12-24 18:58:13 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 19:01:02 [main] INFO : Initializing WebDriver setup.
+2024-12-24 19:01:03 [main] INFO : WebDriver setup completed.
+2024-12-24 19:01:03 [main] INFO : Starting test: testSearchConditions
+2024-12-24 19:01:05 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 19:01:07 [main] INFO : Clicked on the language button.
+2024-12-24 19:01:08 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 19:01:09 [main] INFO : Clicked on the submit.
+2024-12-24 19:01:10 [main] INFO : Clicked on the search bar.
+2024-12-24 19:01:10 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 19:01:12 [main] INFO : Selected Tier 1 category
+2024-12-24 19:01:13 [main] INFO : Selected Tier 2 category
+2024-12-24 19:01:13 [main] INFO : Selected Tier 3 category
+2024-12-24 19:01:13 [main] INFO : Verifying search conditions on the sidebar.
+2024-12-24 19:01:16 [main] INFO : Tier 1 category verified successfully: Books, Magazines, Manga
+2024-12-24 19:01:16 [main] INFO : Tier 2 category verified successfully: Book
+2024-12-24 19:01:16 [main] INFO : Tier 3 category verified successfully: Computer It
+2024-12-24 19:01:16 [main] INFO : All search conditions are set correctly.
+2024-12-24 19:01:16 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 21:13:06 [main] INFO : Initializing WebDriver setup.
+2024-12-24 21:13:40 [main] INFO : Initializing WebDriver setup.
+2024-12-24 21:13:42 [main] INFO : WebDriver setup completed.
+2024-12-24 21:13:42 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 21:13:42 [main] INFO : Creating first browsing history
+2024-12-24 21:13:46 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 21:13:48 [main] INFO : Clicked on the language button.
+2024-12-24 21:13:49 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 21:13:51 [main] INFO : Clicked on the submit.
+2024-12-24 21:13:52 [main] INFO : Clicked on the search bar.
+2024-12-24 21:13:53 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 21:13:55 [main] INFO : Selected Tier 1 category
+2024-12-24 21:13:56 [main] INFO : Selected Tier 2 category
+2024-12-24 21:13:57 [main] INFO : Selected Tier 3 category
+2024-12-24 21:13:57 [main] INFO : Creating second browsing history
+2024-12-24 21:13:58 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 21:14:04 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 21:21:56 [main] INFO : Initializing WebDriver setup.
+2024-12-24 21:21:57 [main] INFO : WebDriver setup completed.
+2024-12-24 21:21:57 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 21:21:57 [main] INFO : Creating first browsing history
+2024-12-24 21:22:00 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 21:22:06 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 21:23:56 [main] INFO : Initializing WebDriver setup.
+2024-12-24 21:23:58 [main] INFO : WebDriver setup completed.
+2024-12-24 21:23:58 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 21:23:58 [main] INFO : Creating first browsing history
+2024-12-24 21:24:02 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 21:24:03 [main] INFO : Clicked on the language button.
+2024-12-24 21:24:04 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 21:24:06 [main] INFO : Clicked on the submit.
+2024-12-24 21:24:07 [main] INFO : Clicked on the search bar.
+2024-12-24 21:24:07 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 21:24:10 [main] INFO : Selected Tier 1 category
+2024-12-24 21:24:10 [main] INFO : Selected Tier 2 category
+2024-12-24 21:24:11 [main] INFO : Selected Tier 3 category
+2024-12-24 21:24:13 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 21:25:20 [main] INFO : Initializing WebDriver setup.
+2024-12-24 21:25:21 [main] INFO : WebDriver setup completed.
+2024-12-24 21:25:21 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 21:25:21 [main] INFO : Creating first browsing history
+2024-12-24 21:25:24 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 21:25:27 [main] INFO : Clicked on the language button.
+2024-12-24 21:25:28 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 21:25:30 [main] INFO : Clicked on the submit.
+2024-12-24 21:25:30 [main] INFO : Clicked on the search bar.
+2024-12-24 21:25:31 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 21:25:33 [main] INFO : Selected Tier 1 category
+2024-12-24 21:25:34 [main] INFO : Selected Tier 2 category
+2024-12-24 21:25:35 [main] INFO : Selected Tier 3 category
+2024-12-24 21:25:36 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 21:30:31 [main] INFO : Initializing WebDriver setup.
+2024-12-24 21:30:33 [main] INFO : WebDriver setup completed.
+2024-12-24 21:30:33 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 21:30:33 [main] INFO : Creating first browsing history
+2024-12-24 21:30:38 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 21:30:40 [main] INFO : Clicked on the language button.
+2024-12-24 21:30:41 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 21:30:43 [main] INFO : Clicked on the submit.
+2024-12-24 21:30:43 [main] INFO : Clicked on the search bar.
+2024-12-24 21:30:46 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 21:30:47 [main] INFO : Selected Tier 1 category
+2024-12-24 21:30:48 [main] INFO : Selected Tier 2 category
+2024-12-24 21:30:48 [main] INFO : Selected Tier 3 category
+2024-12-24 21:30:50 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 21:32:57 [main] INFO : Initializing WebDriver setup.
+2024-12-24 21:32:59 [main] INFO : WebDriver setup completed.
+2024-12-24 21:32:59 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 21:32:59 [main] INFO : Creating first browsing history
+2024-12-24 21:33:03 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 21:33:05 [main] INFO : Clicked on the language button.
+2024-12-24 21:33:05 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 21:33:07 [main] INFO : Clicked on the submit.
+2024-12-24 21:33:08 [main] INFO : Clicked on the search bar.
+2024-12-24 21:33:09 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 21:33:10 [main] INFO : Selected Tier 1 category
+2024-12-24 21:33:11 [main] INFO : Selected Tier 2 category
+2024-12-24 21:33:12 [main] INFO : Selected Tier 3 category
+2024-12-24 21:33:12 [main] INFO : Creating second browsing history
+2024-12-24 21:33:12 [main] INFO : Clicked on the search bar.
+2024-12-24 21:33:12 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 21:33:18 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 21:34:28 [main] INFO : Initializing WebDriver setup.
+2024-12-24 21:34:29 [main] INFO : WebDriver setup completed.
+2024-12-24 21:34:29 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 21:34:29 [main] INFO : Creating first browsing history
+2024-12-24 21:34:32 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 21:34:34 [main] INFO : Clicked on the language button.
+2024-12-24 21:34:35 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 21:34:37 [main] INFO : Clicked on the submit.
+2024-12-24 21:34:38 [main] INFO : Clicked on the search bar.
+2024-12-24 21:34:38 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 21:34:41 [main] INFO : Selected Tier 1 category
+2024-12-24 21:34:42 [main] INFO : Selected Tier 2 category
+2024-12-24 21:34:43 [main] INFO : Selected Tier 3 category
+2024-12-24 21:34:43 [main] INFO : Creating second browsing history
+2024-12-24 21:34:43 [main] INFO : Clicked on the search bar.
+2024-12-24 21:34:43 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 21:34:48 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 21:40:44 [main] INFO : Initializing WebDriver setup.
+2024-12-24 21:40:45 [main] INFO : WebDriver setup completed.
+2024-12-24 21:40:45 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 21:40:45 [main] INFO : Creating first browsing history
+2024-12-24 21:40:50 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 21:40:52 [main] INFO : Clicked on the language button.
+2024-12-24 21:40:52 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 21:40:55 [main] INFO : Clicked on the submit.
+2024-12-24 21:40:55 [main] INFO : Clicked on the search bar.
+2024-12-24 21:40:56 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 21:40:58 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 21:46:02 [main] INFO : Initializing WebDriver setup.
+2024-12-24 21:46:03 [main] INFO : WebDriver setup completed.
+2024-12-24 21:46:03 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 21:46:03 [main] INFO : Creating first browsing history
+2024-12-24 21:46:07 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 21:46:09 [main] INFO : Clicked on the language button.
+2024-12-24 21:46:10 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 21:46:17 [main] INFO : Clicked on the submit.
+2024-12-24 21:46:17 [main] INFO : Clicked on the search bar.
+2024-12-24 21:46:17 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 21:46:20 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 21:48:50 [main] INFO : Initializing WebDriver setup.
+2024-12-24 21:48:52 [main] INFO : WebDriver setup completed.
+2024-12-24 21:48:52 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 21:48:52 [main] INFO : Creating first browsing history
+2024-12-24 21:48:57 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 21:48:58 [main] INFO : Clicked on the language button.
+2024-12-24 21:48:58 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 21:49:00 [main] INFO : Clicked on the submit.
+2024-12-24 21:49:01 [main] INFO : Clicked on the search bar.
+2024-12-24 21:49:02 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 21:49:04 [main] INFO : Selected Tier 1 category
+2024-12-24 21:49:04 [main] INFO : Selected Tier 2 category
+2024-12-24 21:49:05 [main] INFO : Selected Tier 3 category
+2024-12-24 21:49:05 [main] INFO : Creating second browsing history
+2024-12-24 21:49:05 [main] INFO : Clicked on the search bar.
+2024-12-24 21:49:05 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 21:49:11 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 22:34:05 [main] INFO : Initializing WebDriver setup.
+2024-12-24 22:34:08 [main] INFO : WebDriver setup completed.
+2024-12-24 22:34:08 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 22:34:08 [main] INFO : Creating first browsing history
+2024-12-24 22:34:12 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 22:34:15 [main] INFO : Clicked on the language button.
+2024-12-24 22:34:16 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 22:34:18 [main] INFO : Clicked on the submit.
+2024-12-24 22:34:18 [main] INFO : Clicked on the search bar.
+2024-12-24 22:34:19 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 22:34:21 [main] INFO : Selected Tier 1 category
+2024-12-24 22:34:21 [main] INFO : Selected Tier 2 category
+2024-12-24 22:34:22 [main] INFO : Selected Tier 3 category
+2024-12-24 22:34:22 [main] INFO : Creating second browsing history
+2024-12-24 22:34:22 [main] INFO : Clicked on the search bar.
+2024-12-24 22:34:22 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 22:34:28 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 22:36:33 [main] INFO : Initializing WebDriver setup.
+2024-12-24 22:36:34 [main] INFO : WebDriver setup completed.
+2024-12-24 22:36:34 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 22:36:34 [main] INFO : Creating first browsing history
+2024-12-24 22:36:39 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 22:36:39 [main] INFO : Clicked on the language button.
+2024-12-24 22:36:40 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 22:36:41 [main] INFO : Clicked on the submit.
+2024-12-24 22:36:42 [main] INFO : Clicked on the search bar.
+2024-12-24 22:36:42 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 22:36:44 [main] INFO : Selected Tier 1 category
+2024-12-24 22:36:45 [main] INFO : Selected Tier 2 category
+2024-12-24 22:36:46 [main] INFO : Selected Tier 3 category
+2024-12-24 22:36:46 [main] INFO : Creating second browsing history
+2024-12-24 22:36:46 [main] INFO : Clicked on the search bar.
+2024-12-24 22:36:46 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 22:36:51 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 22:37:23 [main] INFO : Initializing WebDriver setup.
+2024-12-24 22:37:24 [main] INFO : WebDriver setup completed.
+2024-12-24 22:37:24 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 22:37:24 [main] INFO : Creating first browsing history
+2024-12-24 22:37:27 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 22:37:29 [main] INFO : Clicked on the language button.
+2024-12-24 22:37:29 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 22:37:31 [main] INFO : Clicked on the submit.
+2024-12-24 22:37:31 [main] INFO : Clicked on the search bar.
+2024-12-24 22:37:34 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 22:37:34 [main] INFO : Selected Tier 1 category
+2024-12-24 22:37:35 [main] INFO : Selected Tier 2 category
+2024-12-24 22:37:36 [main] INFO : Selected Tier 3 category
+2024-12-24 22:37:36 [main] INFO : Creating second browsing history
+2024-12-24 22:37:36 [main] INFO : Clicked on the search bar.
+2024-12-24 22:37:36 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 22:37:41 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 22:43:09 [main] INFO : Initializing WebDriver setup.
+2024-12-24 22:43:10 [main] INFO : WebDriver setup completed.
+2024-12-24 22:43:10 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 22:43:10 [main] INFO : Creating first browsing history
+2024-12-24 22:43:13 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 22:43:16 [main] INFO : Clicked on the language button.
+2024-12-24 22:43:17 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 22:43:18 [main] INFO : Clicked on the submit.
+2024-12-24 22:43:19 [main] INFO : Clicked on the search bar.
+2024-12-24 22:43:19 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 22:43:21 [main] INFO : Selected Tier 1 category
+2024-12-24 22:43:22 [main] INFO : Selected Tier 2 category
+2024-12-24 22:43:23 [main] INFO : Selected Tier 3 category
+2024-12-24 22:44:06 [main] INFO : Creating second browsing history
+2024-12-24 22:44:24 [main] INFO : Clicked on the search bar.
+2024-12-24 22:50:42 [main] INFO : Initializing WebDriver setup.
+2024-12-24 22:50:44 [main] INFO : WebDriver setup completed.
+2024-12-24 22:50:44 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 22:50:44 [main] INFO : Creating first browsing history
+2024-12-24 22:50:48 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 22:50:49 [main] INFO : Clicked on the language button.
+2024-12-24 22:50:50 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 22:50:51 [main] INFO : Clicked on the submit.
+2024-12-24 22:50:51 [main] INFO : Clicked on the search bar.
+2024-12-24 22:50:51 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 22:50:54 [main] INFO : Selected Tier 1 category
+2024-12-24 22:50:55 [main] INFO : Selected Tier 2 category
+2024-12-24 22:50:55 [main] INFO : Selected Tier 3 category
+2024-12-24 22:51:05 [main] INFO : Creating second browsing history
+2024-12-24 22:51:37 [main] INFO : Clicked on the search bar.
+2024-12-24 22:51:46 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 22:52:10 [main] INFO : Selected Tier 1 category
+2024-12-24 22:52:17 [main] INFO : Selected Tier 2 category
+2024-12-24 22:52:32 [main] INFO : Selected Tier 3 category
+2024-12-24 22:52:36 [main] INFO : Going to Mercari top page
+2024-12-24 22:52:57 [main] INFO : Clicked on the search bar.
+2024-12-24 23:01:54 [main] INFO : Verifying 2 browsing histories
+2024-12-24 23:01:58 [main] INFO : Initializing WebDriver setup.
+2024-12-24 23:02:00 [main] INFO : WebDriver setup completed.
+2024-12-24 23:02:00 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 23:02:00 [main] INFO : Creating first browsing history
+2024-12-24 23:02:02 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 23:02:07 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 23:02:21 [main] INFO : Initializing WebDriver setup.
+2024-12-24 23:02:23 [main] INFO : WebDriver setup completed.
+2024-12-24 23:02:23 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 23:02:23 [main] INFO : Creating first browsing history
+2024-12-24 23:02:24 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 23:02:27 [main] INFO : Clicked on the language button.
+2024-12-24 23:02:28 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 23:02:30 [main] INFO : Clicked on the submit.
+2024-12-24 23:02:30 [main] INFO : Clicked on the search bar.
+2024-12-24 23:02:30 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:02:31 [main] INFO : Selected Tier 1 category
+2024-12-24 23:02:33 [main] INFO : Selected Tier 2 category
+2024-12-24 23:02:33 [main] INFO : Selected Tier 3 category as Entertainment
+2024-12-24 23:02:33 [main] INFO : Creating second browsing history
+2024-12-24 23:02:34 [main] INFO : Clicked on the search bar.
+2024-12-24 23:02:34 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:02:34 [main] INFO : Selected Tier 1 category
+2024-12-24 23:02:35 [main] INFO : Selected Tier 2 category
+2024-12-24 23:02:35 [main] INFO : Selected Tier 3 category
+2024-12-24 23:02:35 [main] INFO : Going to Mercari top page
+2024-12-24 23:02:36 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 23:06:08 [main] INFO : Initializing WebDriver setup.
+2024-12-24 23:06:10 [main] INFO : WebDriver setup completed.
+2024-12-24 23:06:10 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 23:06:10 [main] INFO : Creating first browsing history
+2024-12-24 23:06:17 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 23:06:17 [main] INFO : Clicked on the language button.
+2024-12-24 23:06:17 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 23:06:19 [main] INFO : Clicked on the submit.
+2024-12-24 23:06:19 [main] INFO : Clicked on the search bar.
+2024-12-24 23:06:19 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:06:22 [main] INFO : Selected Tier 1 category
+2024-12-24 23:06:23 [main] INFO : Selected Tier 2 category
+2024-12-24 23:06:23 [main] INFO : Selected Tier 3 category as Entertainment
+2024-12-24 23:06:23 [main] INFO : Creating second browsing history
+2024-12-24 23:06:24 [main] INFO : Clicked on the search bar.
+2024-12-24 23:06:24 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:06:24 [main] INFO : Selected Tier 1 category
+2024-12-24 23:06:25 [main] INFO : Selected Tier 2 category
+2024-12-24 23:06:26 [main] INFO : Selected Tier 3 category
+2024-12-24 23:06:26 [main] INFO : Going to Mercari top page
+2024-12-24 23:06:26 [main] INFO : Clicked on the search bar.
+2024-12-24 23:06:26 [main] INFO : Verifying 2 browsing histories
+2024-12-24 23:06:31 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 23:16:30 [main] INFO : Initializing WebDriver setup.
+2024-12-24 23:16:31 [main] INFO : WebDriver setup completed.
+2024-12-24 23:16:31 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 23:16:31 [main] INFO : Creating first browsing history
+2024-12-24 23:16:34 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 23:16:39 [main] INFO : Clicked on the language button.
+2024-12-24 23:16:40 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 23:16:41 [main] INFO : Clicked on the submit.
+2024-12-24 23:16:42 [main] INFO : Clicked on the search bar.
+2024-12-24 23:16:42 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:16:43 [main] INFO : Selected Tier 1 category
+2024-12-24 23:16:44 [main] INFO : Selected Tier 2 category
+2024-12-24 23:16:45 [main] INFO : Selected Tier 3 category as Entertainment
+2024-12-24 23:16:45 [main] INFO : Creating second browsing history
+2024-12-24 23:16:45 [main] INFO : Clicked on the search bar.
+2024-12-24 23:16:45 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:16:46 [main] INFO : Selected Tier 1 category
+2024-12-24 23:16:46 [main] INFO : Selected Tier 2 category
+2024-12-24 23:16:47 [main] INFO : Selected Tier 3 category
+2024-12-24 23:16:47 [main] INFO : Going to Mercari top page
+2024-12-24 23:16:48 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 23:17:01 [main] INFO : Initializing WebDriver setup.
+2024-12-24 23:17:02 [main] INFO : WebDriver setup completed.
+2024-12-24 23:17:02 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 23:17:02 [main] INFO : Creating first browsing history
+2024-12-24 23:17:04 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 23:17:06 [main] INFO : Clicked on the language button.
+2024-12-24 23:17:06 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 23:17:17 [main] INFO : Clicked on the submit.
+2024-12-24 23:17:17 [main] INFO : Clicked on the search bar.
+2024-12-24 23:17:17 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:17:19 [main] INFO : Selected Tier 1 category
+2024-12-24 23:17:20 [main] INFO : Selected Tier 2 category
+2024-12-24 23:17:20 [main] INFO : Selected Tier 3 category as Entertainment
+2024-12-24 23:17:21 [main] INFO : Creating second browsing history
+2024-12-24 23:17:21 [main] INFO : Clicked on the search bar.
+2024-12-24 23:17:21 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:17:21 [main] INFO : Selected Tier 1 category
+2024-12-24 23:17:22 [main] INFO : Selected Tier 2 category
+2024-12-24 23:17:23 [main] INFO : Selected Tier 3 category
+2024-12-24 23:17:23 [main] INFO : Going to Mercari top page
+2024-12-24 23:17:23 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 23:17:33 [main] INFO : Initializing WebDriver setup.
+2024-12-24 23:17:35 [main] INFO : WebDriver setup completed.
+2024-12-24 23:17:35 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 23:17:35 [main] INFO : Creating first browsing history
+2024-12-24 23:17:36 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 23:17:40 [main] INFO : Clicked on the language button.
+2024-12-24 23:17:40 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 23:17:41 [main] INFO : Clicked on the submit.
+2024-12-24 23:17:42 [main] INFO : Clicked on the search bar.
+2024-12-24 23:17:42 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:17:43 [main] INFO : Selected Tier 1 category
+2024-12-24 23:17:45 [main] INFO : Selected Tier 2 category
+2024-12-24 23:17:46 [main] INFO : Selected Tier 3 category as Entertainment
+2024-12-24 23:17:46 [main] INFO : Creating second browsing history
+2024-12-24 23:17:46 [main] INFO : Clicked on the search bar.
+2024-12-24 23:17:46 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:17:46 [main] INFO : Selected Tier 1 category
+2024-12-24 23:17:47 [main] INFO : Selected Tier 2 category
+2024-12-24 23:17:48 [main] INFO : Selected Tier 3 category
+2024-12-24 23:17:48 [main] INFO : Going to Mercari top page
+2024-12-24 23:17:48 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 23:22:45 [main] INFO : Initializing WebDriver setup.
+2024-12-24 23:22:46 [main] INFO : WebDriver setup completed.
+2024-12-24 23:22:46 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 23:22:46 [main] INFO : Creating first browsing history
+2024-12-24 23:22:48 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 23:22:51 [main] INFO : Clicked on the language button.
+2024-12-24 23:22:52 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 23:22:53 [main] INFO : Clicked on the submit.
+2024-12-24 23:22:53 [main] INFO : Clicked on the search bar.
+2024-12-24 23:22:54 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:22:56 [main] INFO : Selected Tier 1 category
+2024-12-24 23:22:57 [main] INFO : Selected Tier 2 category
+2024-12-24 23:22:58 [main] INFO : Selected Tier 3 category as Entertainment
+2024-12-24 23:22:58 [main] INFO : Creating second browsing history
+2024-12-24 23:22:58 [main] INFO : Clicked on the search bar.
+2024-12-24 23:22:58 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:22:58 [main] INFO : Selected Tier 1 category
+2024-12-24 23:22:59 [main] INFO : Selected Tier 2 category
+2024-12-24 23:23:00 [main] INFO : Selected Tier 3 category
+2024-12-24 23:23:00 [main] INFO : Going to Mercari top page
+2024-12-24 23:23:00 [main] INFO : Clicked on the search bar.
+2024-12-24 23:23:00 [main] INFO : Verifying 2 browsing histories
+2024-12-24 23:23:06 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 23:23:34 [main] INFO : Initializing WebDriver setup.
+2024-12-24 23:23:35 [main] INFO : WebDriver setup completed.
+2024-12-24 23:23:35 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 23:23:35 [main] INFO : Creating first browsing history
+2024-12-24 23:23:39 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 23:23:41 [main] INFO : Clicked on the language button.
+2024-12-24 23:23:43 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 23:23:44 [main] INFO : Clicked on the submit.
+2024-12-24 23:23:44 [main] INFO : Clicked on the search bar.
+2024-12-24 23:23:45 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:23:47 [main] INFO : Selected Tier 1 category
+2024-12-24 23:23:48 [main] INFO : Selected Tier 2 category
+2024-12-24 23:23:49 [main] INFO : Selected Tier 3 category as Entertainment
+2024-12-24 23:23:49 [main] INFO : Creating second browsing history
+2024-12-24 23:23:49 [main] INFO : Clicked on the search bar.
+2024-12-24 23:23:49 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:23:49 [main] INFO : Selected Tier 1 category
+2024-12-24 23:23:50 [main] INFO : Selected Tier 2 category
+2024-12-24 23:23:51 [main] INFO : Selected Tier 3 category
+2024-12-24 23:23:51 [main] INFO : Going to Mercari top page
+2024-12-24 23:23:51 [main] INFO : Clicked on the search bar.
+2024-12-24 23:23:51 [main] INFO : Verifying 2 browsing histories
+2024-12-24 23:23:56 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 23:24:54 [main] INFO : Initializing WebDriver setup.
+2024-12-24 23:24:56 [main] INFO : WebDriver setup completed.
+2024-12-24 23:24:56 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 23:24:56 [main] INFO : Creating first browsing history
+2024-12-24 23:24:57 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 23:25:01 [main] INFO : Clicked on the language button.
+2024-12-24 23:25:01 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 23:25:03 [main] INFO : Clicked on the submit.
+2024-12-24 23:25:03 [main] INFO : Clicked on the search bar.
+2024-12-24 23:25:03 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:25:06 [main] INFO : Selected Tier 1 category
+2024-12-24 23:25:06 [main] INFO : Selected Tier 2 category
+2024-12-24 23:25:07 [main] INFO : Selected Tier 3 category as Entertainment
+2024-12-24 23:25:07 [main] INFO : Creating second browsing history
+2024-12-24 23:25:07 [main] INFO : Clicked on the search bar.
+2024-12-24 23:25:07 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:25:08 [main] INFO : Selected Tier 1 category
+2024-12-24 23:25:08 [main] INFO : Selected Tier 2 category
+2024-12-24 23:25:09 [main] INFO : Selected Tier 3 category
+2024-12-24 23:25:09 [main] INFO : Going to Mercari top page
+2024-12-24 23:25:43 [main] INFO : Clicked on the search bar.
+2024-12-24 23:26:02 [main] INFO : Verifying 2 browsing histories
+2024-12-24 23:26:26 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 23:28:01 [main] INFO : Initializing WebDriver setup.
+2024-12-24 23:28:02 [main] INFO : WebDriver setup completed.
+2024-12-24 23:28:02 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 23:28:02 [main] INFO : Creating first browsing history
+2024-12-24 23:28:10 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 23:28:10 [main] INFO : Clicked on the language button.
+2024-12-24 23:28:10 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 23:28:12 [main] INFO : Clicked on the submit.
+2024-12-24 23:28:12 [main] INFO : Clicked on the search bar.
+2024-12-24 23:28:12 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:28:14 [main] INFO : Selected Tier 1 category
+2024-12-24 23:28:15 [main] INFO : Selected Tier 2 category
+2024-12-24 23:28:16 [main] INFO : Selected Tier 3 category as Entertainment
+2024-12-24 23:28:16 [main] INFO : Creating second browsing history
+2024-12-24 23:28:16 [main] INFO : Clicked on the search bar.
+2024-12-24 23:28:16 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:28:16 [main] INFO : Selected Tier 1 category
+2024-12-24 23:28:17 [main] INFO : Selected Tier 2 category
+2024-12-24 23:28:18 [main] INFO : Selected Tier 3 category
+2024-12-24 23:28:18 [main] INFO : Going to Mercari top page
+2024-12-24 23:28:18 [main] INFO : Clicked on the search bar.
+2024-12-24 23:28:18 [main] INFO : Verifying 2 browsing histories
+2024-12-24 23:28:29 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 23:47:00 [main] INFO : Initializing WebDriver setup.
+2024-12-24 23:47:01 [main] INFO : WebDriver setup completed.
+2024-12-24 23:47:01 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 23:47:01 [main] INFO : Creating first browsing history
+2024-12-24 23:47:07 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 23:47:08 [main] INFO : Clicked on the language button.
+2024-12-24 23:47:10 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 23:47:11 [main] INFO : Clicked on the submit.
+2024-12-24 23:47:11 [main] INFO : Clicked on the search bar.
+2024-12-24 23:47:11 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:47:14 [main] INFO : Selected Tier 1 category
+2024-12-24 23:47:15 [main] INFO : Selected Tier 2 category
+2024-12-24 23:47:16 [main] INFO : Selected Tier 3 category as Entertainment
+2024-12-24 23:47:16 [main] INFO : Creating second browsing history
+2024-12-24 23:47:16 [main] INFO : Clicked on the search bar.
+2024-12-24 23:47:16 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:47:16 [main] INFO : Selected Tier 1 category
+2024-12-24 23:47:17 [main] INFO : Selected Tier 2 category
+2024-12-24 23:47:18 [main] INFO : Selected Tier 3 category
+2024-12-24 23:47:18 [main] INFO : Going to Mercari top page
+2024-12-24 23:47:18 [main] INFO : Clicked on the search bar.
+2024-12-24 23:47:18 [main] INFO : Verifying 2 browsing histories
+2024-12-24 23:47:28 [main] INFO : Browser closed and WebDriver teardown completed.
+2024-12-24 23:50:43 [main] INFO : Initializing WebDriver setup.
+2024-12-24 23:50:45 [main] INFO : WebDriver setup completed.
+2024-12-24 23:50:45 [main] INFO : Starting test: testLatestBrowsingHistory
+2024-12-24 23:50:45 [main] INFO : Creating first browsing history
+2024-12-24 23:50:47 [main] INFO : Opened URL: https://jp.mercari.com/
+2024-12-24 23:50:49 [main] INFO : Clicked on the language button.
+2024-12-24 23:50:50 [main] INFO : Clicked on the radio button to select english language.
+2024-12-24 23:50:52 [main] INFO : Clicked on the submit.
+2024-12-24 23:50:52 [main] INFO : Clicked on the search bar.
+2024-12-24 23:50:52 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:50:55 [main] INFO : Selected Tier 1 category
+2024-12-24 23:50:55 [main] INFO : Selected Tier 2 category
+2024-12-24 23:50:56 [main] INFO : Selected Tier 3 category as Entertainment
+2024-12-24 23:50:56 [main] INFO : Creating second browsing history
+2024-12-24 23:50:56 [main] INFO : Clicked on the search bar.
+2024-12-24 23:50:56 [main] INFO : Clicked on 'Select by category'.
+2024-12-24 23:50:56 [main] INFO : Selected Tier 1 category
+2024-12-24 23:50:57 [main] INFO : Selected Tier 2 category
+2024-12-24 23:50:58 [main] INFO : Selected Tier 3 category
+2024-12-24 23:50:58 [main] INFO : Going to Mercari top page
+2024-12-24 23:50:59 [main] INFO : Clicked on the search bar.
+2024-12-24 23:50:59 [main] INFO : Verifying 2 browsing histories
+2024-12-24 23:51:09 [main] INFO : Verifying latest browsing history is Computer It
+2024-12-24 23:51:19 [main] INFO : Browser closed and WebDriver teardown completed.
